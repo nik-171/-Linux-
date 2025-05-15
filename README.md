@@ -3,5 +3,5 @@
 ![Screenshot](Screenshot_20250516_023059.png)
 
 Зависимости:
-  Wayland
-  gtk-layer-shell
+- Wayland
+- gtk-layer-shell
