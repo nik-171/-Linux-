@@ -4,4 +4,6 @@
 
 Зависимости:
 - Wayland
-- gtk-layer-shell
+- [gtk-layer-shell](https://github.com/wmww/gtk-layer-shell)
+- GTK+ 3 (`gtk3`)
+- PyGObject (`python3-gobject`)
